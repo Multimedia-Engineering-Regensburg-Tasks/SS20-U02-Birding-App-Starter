@@ -1,0 +1,20 @@
+{
+  "name": "ss20-u02-birding-app-starter",
+  "version": "1.0.0",
+  "description": "![Coverbild der Aufgabe](/docs/cover.png)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server .",
+    "eslint": "eslint --format table resources/js"
+  },
+  "author": "Alexander Bazo <alexanderbazo@googlemail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^7.0.0",
+    "http-server": "^0.12.3"
+  }
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2020 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="plus-circled" unicode="&#xe803;" d="M0 350q0 207 147 354t353 146 354-146 146-354-146-354-354-146-353 146-147 354z m219-80l201 0 0-201 160 0 0 201 201 0 0 160-201 0 0 201-160 0 0-201-201 0 0-160z" horiz-adv-x="1000" />
+
+<glyph glyph-name="plus" unicode="&#xe808;" d="M786 439v-107q0-22-16-38t-38-15h-232v-233q0-22-16-37t-38-16h-107q-22 0-38 16t-15 37v233h-232q-23 0-38 15t-16 38v107q0 23 16 38t38 16h232v232q0 22 15 38t38 16h107q23 0 38-16t16-38v-232h232q23 0 38-16t16-38z" horiz-adv-x="785.7" />
+
+<glyph glyph-name="minus" unicode="&#xe809;" d="M786 439v-107q0-22-16-38t-38-15h-678q-23 0-38 15t-16 38v107q0 23 16 38t38 16h678q23 0 38-16t16-38z" horiz-adv-x="785.7" />
+
+<glyph glyph-name="binoculars" unicode="&#xf1e5;" d="M393 671v-428q0-15-11-25t-25-11v-321q0-15-10-25t-26-11h-285q-15 0-25 11t-11 25v285l139 488q4 12 17 12h237z m178 0v-392h-142v392h142z m429-500v-285q0-15-11-25t-25-11h-285q-15 0-25 11t-11 25v321q-15 0-25 11t-11 25v428h237q13 0 17-12z m-589 661v-125h-197v125q0 8 5 13t13 5h161q8 0 13-5t5-13z m375 0v-125h-197v125q0 8 5 13t13 5h161q8 0 13-5t5-13z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
