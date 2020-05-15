@@ -2,6 +2,10 @@
   "name": "ss20-u02-birding-app-starter",
   "version": "1.0.0",
   "description": "![Coverbild der Aufgabe](/docs/cover.png)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Multimedia-Engineering-Regensburg-Tasks/SS20-U02-Birding-App-Starter/"
+  },
   "main": "index.js",
   "directories": {
     "doc": "docs"
